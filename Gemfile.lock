@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tinkerforge (2.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tinkerforge
+
+BUNDLED WITH
+   1.10.6
